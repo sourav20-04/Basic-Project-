@@ -1,0 +1,36 @@
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.br{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.mar{
+    margin: 7px auto;
+}
+
+.sz{
+    width: 100%;
+    height: 35px;
+}
+
+.pad{
+    padding: 4px;
+}
+
+.col1{
+    background-color: blue;
+}
+
+.col2{
+    background-color: green;
+}
+.col3{
+    background-color: red;
+}
+
